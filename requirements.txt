@@ -1,34 +1,34 @@
-pyrogram
-tgcrypto
-pymongo[srv]
-motor
-marshmallow
-umongo
-requests
-bs4
-git+https://github.com/Joelkb/cinemagoer
-shortzy
-datetime
-pytz
-aiohttp
+ tgcrypto 
+ pymongo[srv]
+ motor
+ marshmallow
+ umongo
+ requests 
+ bs4 
+ git+https://github.com/Joelkb/cinemagoer 
+ shortzy 
+ datetime 
+ pytz 
+ aiohttp
 
-#---master---#
-# Telethroid
-PyLeaves
-
-#---others----#
-opencv-python-headless
-python-dotenv
-speedtest
-humanize
-Pillow
-psutil
-NumPy
-wheel
-ujson
-wget
-aiofiles
-dnspython
+#---master---# 
+ #Telethroid==0.0.10 
+ PyLeaves==1.0.2 
+  
+  
+ #---others----# 
+ opencv-python-headless==4.7.0.68 
+ python-dotenv
+ speedtest==0.0.1 
+ humanize==4.6.0 
+ Pillow
+ psutil
+ NumPy 
+ wheel 
+ ujson 
+ wget 
+ aiofiles
+ dnspython==2.3.0
 python-decouple
 ffmpeg-python
 jinja2
@@ -39,47 +39,66 @@ search_engine_parser
 ffmpeg
 youtube-search-python
 youtube-dl
+pyshorteners
 countryinfo
 python-math
+psutil
 speedtest-cli
+python-dotenv
 python-telegram-bot
 doodstream
 unshortenit
+python-decouple
 ytthumb
 YoutubeTags
 beautifulsoup4
+motor
 python-docx
+speedtest
 yt-dlp
 python-dateutil
 google-generativeai
+datetime>=4.4
 asyncio
 chardet
 urllib3
 pycryptodomex
+wheel
 six
 googlesearch-python
 spotipy
 scdl
 tqdm
+ujson
+wget
+spotipy
 pafy
+ffmpeg
+asyncio
 pytube
+youtube-search
+youtube-search-python
 spotdl
+Pillow
+wget
 discord
-moviepy
+moviepy==1.0.3
 shazamio
 telegraph
 PyPDF2
 pypdf
+pyrogram>=2.0.106
 Faker
 telethon
 sqlalchemy
 SafoneAPI
 gtts
 pydub
+sqlalchemy
 pyfiglet
-jikanpy
-html2text
-secureme
+jikanpy==4.3.2
+html2text==2024.2.26
+secureme==0.0.4
 gpytranslate
 googletrans
 lexica-api
@@ -87,6 +106,7 @@ SpeechRecognition
 gitpython
 pyromod
 uvloop
+lexica-api
 MukeshAPI
 httpx
 HorridAPI
