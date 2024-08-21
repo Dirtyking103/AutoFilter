@@ -1,3 +1,4 @@
+ profork
  tgcrypto 
  pymongo[srv]
  motor
@@ -87,7 +88,7 @@ shazamio
 telegraph
 PyPDF2
 pypdf
-pyrogram>=2.0.106
+pyrogram==2.0.106
 Faker
 telethon
 sqlalchemy
